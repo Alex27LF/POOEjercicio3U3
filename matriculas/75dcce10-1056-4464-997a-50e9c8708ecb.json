@@ -1,0 +1,61 @@
+{
+  "numero": "75dcce10-1056-4464-997a-50e9c8708ecb",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 43
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Moises",
+    "apellido": "Orrellana",
+    "cedula": "0287451963"
+  },
+  "curso": {
+    "titulo": "Fisica Fundamental",
+    "costo": 80.0,
+    "descripcion": "Aprende las leyer termodinamicas y mucho mas"
+  },
+  "promedio": 15.363334,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 20
+      },
+      "valor": 13.02,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 24
+      },
+      "valor": 18.02,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 30
+      },
+      "valor": 15.05,
+      "unidad": "III"
+    }
+  ]
+}

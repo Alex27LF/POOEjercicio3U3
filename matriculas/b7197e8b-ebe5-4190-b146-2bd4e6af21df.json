@@ -1,0 +1,61 @@
+{
+  "numero": "b7197e8b-ebe5-4190-b146-2bd4e6af21df",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 18
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Aleks",
+    "apellido": "Pachacama",
+    "cedula": "1727655944"
+  },
+  "curso": {
+    "titulo": "Tecnicas de Investigacion",
+    "costo": 50.0,
+    "descripcion": "Realizar ejemplos de papers para el desempeño universitario"
+  },
+  "promedio": 15.131667,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 46
+      },
+      "valor": 15.05,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 56
+      },
+      "valor": 13.95,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 15
+      },
+      "valor": 16.395,
+      "unidad": "III"
+    }
+  ]
+}

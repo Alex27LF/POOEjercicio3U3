@@ -1,0 +1,61 @@
+{
+  "numero": "c016bee3-48b8-40ac-96cb-5e43169de9ad",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 54,
+    "second": 26
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Karla",
+    "apellido": "Molina",
+    "cedula": "1754829630"
+  },
+  "curso": {
+    "titulo": "Fisica Clasica",
+    "costo": 90.0,
+    "descripcion": "Aprende los diversos movimientos como MRU, MRUV,MCU"
+  },
+  "promedio": 16.1,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 54,
+        "second": 53
+      },
+      "valor": 14.02,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 55,
+        "second": 0
+      },
+      "valor": 16.5,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 10,
+        "minute": 55,
+        "second": 6
+      },
+      "valor": 17.78,
+      "unidad": "III"
+    }
+  ]
+}

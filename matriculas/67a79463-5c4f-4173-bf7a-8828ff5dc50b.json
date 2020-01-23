@@ -1,0 +1,61 @@
+{
+  "numero": "67a79463-5c4f-4173-bf7a-8828ff5dc50b",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 24
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Karla",
+    "apellido": "Molina",
+    "cedula": "1754829630"
+  },
+  "curso": {
+    "titulo": "Tecnicas de Investigacion",
+    "costo": 50.0,
+    "descripcion": "Realizar ejemplos de papers para el desempeño universitario"
+  },
+  "promedio": 14.686667,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 10,
+        "second": 58
+      },
+      "valor": 14.02,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 2
+      },
+      "valor": 17.02,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 11,
+        "second": 6
+      },
+      "valor": 13.02,
+      "unidad": "III"
+    }
+  ]
+}

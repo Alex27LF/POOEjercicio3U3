@@ -1,0 +1,61 @@
+{
+  "numero": "dcf33183-2e6a-47a9-8ff6-378d58bc62e3",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 10,
+    "second": 30
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Talia",
+    "apellido": "Torres",
+    "cedula": "1245789630"
+  },
+  "curso": {
+    "titulo": "Fisica Fundamental",
+    "costo": 80.0,
+    "descripcion": "Aprende las leyer termodinamicas y mucho mas"
+  },
+  "promedio": 14.613334,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 12,
+        "second": 52
+      },
+      "valor": 16.395,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 1
+      },
+      "valor": 15.395,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 13,
+        "second": 8
+      },
+      "valor": 12.05,
+      "unidad": "III"
+    }
+  ]
+}

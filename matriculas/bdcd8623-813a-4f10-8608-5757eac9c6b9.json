@@ -1,0 +1,61 @@
+{
+  "numero": "bdcd8623-813a-4f10-8608-5757eac9c6b9",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 38,
+    "second": 4
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Brandon",
+    "apellido": "Fonseca",
+    "cedula": "0984715263"
+  },
+  "curso": {
+    "titulo": "Fisica Clasica",
+    "costo": 90.0,
+    "descripcion": "Aprende los diversos movimientos como MRU, MRUV,MCU"
+  },
+  "promedio": 16.066668,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 40,
+        "second": 4
+      },
+      "valor": 18.82,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 40,
+        "second": 7
+      },
+      "valor": 15.82,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 40,
+        "second": 15
+      },
+      "valor": 13.56,
+      "unidad": "III"
+    }
+  ]
+}

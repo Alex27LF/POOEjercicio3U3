@@ -1,0 +1,61 @@
+{
+  "numero": "71e1de4e-0221-4cbf-8492-fd04ca9fdb7f",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 38,
+    "second": 16
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Camila",
+    "apellido": "Toapanta",
+    "cedula": "1584729630"
+  },
+  "curso": {
+    "titulo": "Calculo Diferencial e Integral",
+    "costo": 120.0,
+    "descripcion": "Aprender a Integrar y Derivar"
+  },
+  "promedio": 16.133333,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 1
+      },
+      "valor": 13.54,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 7
+      },
+      "valor": 18.54,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 14
+      },
+      "valor": 16.32,
+      "unidad": "III"
+    }
+  ]
+}

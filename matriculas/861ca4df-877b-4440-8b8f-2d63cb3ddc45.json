@@ -1,0 +1,61 @@
+{
+  "numero": "861ca4df-877b-4440-8b8f-2d63cb3ddc45",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 38,
+    "second": 1
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "0147852963"
+  },
+  "curso": {
+    "titulo": "Programacion Orientadad a Objetos",
+    "costo": 150.0,
+    "descripcion": "Aprendizaje en Java al 100%"
+  },
+  "promedio": 15.419999,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 45
+      },
+      "valor": 16.22,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 50
+      },
+      "valor": 11.22,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 56
+      },
+      "valor": 18.82,
+      "unidad": "III"
+    }
+  ]
+}

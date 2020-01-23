@@ -1,0 +1,61 @@
+{
+  "numero": "ce4e0662-e10c-412e-a0d7-7fdc7aff1420",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 38,
+    "second": 21
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Fabricio",
+    "apellido": "Cajamarca",
+    "cedula": "1204536987"
+  },
+  "curso": {
+    "titulo": "Calculo Diferencial e Integral",
+    "costo": 120.0,
+    "descripcion": "Aprender a Integrar y Derivar"
+  },
+  "promedio": 13.353333,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 43,
+        "second": 11
+      },
+      "valor": 14.02,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 43,
+        "second": 16
+      },
+      "valor": 15.02,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 43,
+        "second": 19
+      },
+      "valor": 11.02,
+      "unidad": "III"
+    }
+  ]
+}

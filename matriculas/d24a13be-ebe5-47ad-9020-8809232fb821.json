@@ -1,0 +1,61 @@
+{
+  "numero": "d24a13be-ebe5-47ad-9020-8809232fb821",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 38,
+    "second": 7
+  },
+  "estado": "Reprobada",
+  "estudiante": {
+    "nombre": "Dorian",
+    "apellido": "Palacios",
+    "cedula": "1025478963"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 90.0,
+    "descripcion": "Aprendizaje de C++ al 100 %"
+  },
+  "promedio": 13.553333,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 41,
+        "second": 13
+      },
+      "valor": 15.02,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 41,
+        "second": 18
+      },
+      "valor": 16.82,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 41,
+        "second": 23
+      },
+      "valor": 8.82,
+      "unidad": "III"
+    }
+  ]
+}

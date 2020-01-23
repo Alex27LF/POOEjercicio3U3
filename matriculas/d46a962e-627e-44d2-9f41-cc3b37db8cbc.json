@@ -1,0 +1,61 @@
+{
+  "numero": "d46a962e-627e-44d2-9f41-cc3b37db8cbc",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 33,
+    "second": 7
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Lizeth",
+    "apellido": "Naranjo",
+    "cedula": "1745829630"
+  },
+  "curso": {
+    "titulo": "Algebra Lineal",
+    "costo": 120.0,
+    "descripcion": "Aprenda a operar matrices y espacios vectoriales"
+  },
+  "promedio": 14.013333,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 34,
+        "second": 41
+      },
+      "valor": 16.0,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 34,
+        "second": 46
+      },
+      "valor": 12.02,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 34,
+        "second": 50
+      },
+      "valor": 14.02,
+      "unidad": "III"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "numero": "81ba1262-2184-4766-8027-5e5f8cabf8a3",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 38,
+    "second": 12
+  },
+  "estado": "Aprobada",
+  "estudiante": {
+    "nombre": "Moises",
+    "apellido": "Orrellana",
+    "cedula": "0287451963"
+  },
+  "curso": {
+    "titulo": "Fisica Clasica",
+    "costo": 90.0,
+    "descripcion": "Aprende los diversos movimientos como MRU, MRUV,MCU"
+  },
+  "promedio": 16.153334,
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 23
+      },
+      "valor": 16.32,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 29
+      },
+      "valor": 15.92,
+      "unidad": "II"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 10,
+        "minute": 39,
+        "second": 35
+      },
+      "valor": 16.22,
+      "unidad": "III"
+    }
+  ]
+}

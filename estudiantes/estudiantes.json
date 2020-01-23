@@ -1,0 +1,133 @@
+[
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Futbol",
+      "Club de Música",
+      "Club de Tenis"
+    ],
+    "nombre": "Aleks",
+    "apellido": "Pachacama",
+    "cedula": "1727655944"
+  },
+  {
+    "carrera": "Ingeniería Petroquimica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Basket"
+    ],
+    "nombre": "Karla",
+    "apellido": "Molina",
+    "cedula": "1754829630"
+  },
+  {
+    "carrera": "Ingeniería Electromecanica",
+    "clubes": [
+      "Club de Basket",
+      "Club de Música",
+      "Club de Robotica",
+      "Club de Tenis"
+    ],
+    "nombre": "Lizeth",
+    "apellido": "Naranjo",
+    "cedula": "1745829630"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Basket",
+      "Club de Futbol"
+    ],
+    "nombre": "Talia",
+    "apellido": "Torres",
+    "cedula": "1245789630"
+  },
+  {
+    "carrera": "Ingeniería Petroquimica",
+    "clubes": [
+      "Club de Basket",
+      "Club de Tenis"
+    ],
+    "nombre": "Fabricio",
+    "apellido": "Cajamarca",
+    "cedula": "1204536987"
+  },
+  {
+    "carrera": "Ingeniería Electromecanica",
+    "clubes": [
+      "Club de Ajedrez",
+      "Club de Basket",
+      "Club de Futbol",
+      "Club de Música"
+    ],
+    "nombre": "Camila",
+    "apellido": "Toapanta",
+    "cedula": "1584729630"
+  },
+  {
+    "carrera": "Ingeniería Electromecanica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Ajedrez",
+      "Club de Basket",
+      "Club de Futbol",
+      "Club de Música",
+      "Club de Robotica"
+    ],
+    "nombre": "Moises",
+    "apellido": "Orrellana",
+    "cedula": "0287451963"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Futbol",
+      "Club de Música",
+      "Club de Robotica"
+    ],
+    "nombre": "Dorian",
+    "apellido": "Palacios",
+    "cedula": "1025478963"
+  },
+  {
+    "carrera": "Ingeniería de Software",
+    "clubes": [
+      "Club de Danza",
+      "Club de Ajedrez",
+      "Club de Futbol",
+      "Club de Música",
+      "Club de Robotica",
+      "Club de Tenis"
+    ],
+    "nombre": "Brandon",
+    "apellido": "Fonseca",
+    "cedula": "0984715263"
+  },
+  {
+    "carrera": "Ingeniería Mecatrónica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Ajedrez",
+      "Club de Andinismo",
+      "Club de Basket"
+    ],
+    "nombre": "Edward",
+    "apellido": "Guallichico",
+    "cedula": "0147852963"
+  },
+  {
+    "carrera": "Ingeniería Electronica",
+    "clubes": [
+      "Club de Danza",
+      "Club de Andinismo",
+      "Club de Música"
+    ],
+    "nombre": "Crhistofer",
+    "apellido": "Rugel",
+    "cedula": "128743069"
+  }
+]
